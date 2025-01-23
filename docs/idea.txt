@@ -1,0 +1,23 @@
+Book Arena is a books app where user can read diverse variety of book of diffenet categories and collections
+
+
+
+Screen
+    home Screen
+        collection view
+        categories view
+        books grid view
+    category detail Screen
+        category banner
+        books list    
+    collection detail screen    
+        category banner
+        books list  
+    author page
+        user banner
+        user avatar
+        user details
+        user posted books
+    authentiction pages
+        login 
+        register
