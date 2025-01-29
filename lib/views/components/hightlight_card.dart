@@ -14,7 +14,7 @@ class HightlightCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return //! highlight card start
         Container(
-      margin: EdgeInsets.all(10),
+      margin: EdgeInsets.only(right: 10),
       child: Stack(
         children: [
           //? first layer (pic)
