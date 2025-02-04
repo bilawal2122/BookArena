@@ -7,10 +7,10 @@ void main() {
   );
 }
 
-
-class BookArena extends StatelessWidget{
+class BookArena extends StatelessWidget {
   String name = "Shahzad";
-  Widget build(BuildContext context){
+  @override
+  Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: HomePage(),

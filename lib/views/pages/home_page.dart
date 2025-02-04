@@ -3,7 +3,7 @@ import 'package:book_arena/views/components/hightlight_card.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
-  Color primaryColor = Color.fromARGB(255, 189, 180, 243);
+  Color primaryColor = Color.fromARGB(255, 36, 14, 162);
   Color bgColor = Color.fromARGB(255, 221, 221, 252);
   String hightlight_image =
       "https://images.pexels.com/photos/23158191/pexels-photo-23158191/free-photo-of-a-coffee-on-a-table.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
