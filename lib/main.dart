@@ -7,8 +7,14 @@ void main() {
   );
 }
 
-class BookArena extends StatelessWidget {
+class BookArena extends StatefulWidget {
+  @override
+  State<BookArena> createState() => _BookArenaState();
+}
+
+class _BookArenaState extends State<BookArena> {
   String name = "Shahzad";
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
